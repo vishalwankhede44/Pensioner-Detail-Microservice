@@ -5,6 +5,6 @@ Resources:
       Properties:
         TaskDefinition: "arn:aws:ecs:us-east-1:860061945305:task-definition/pensioner-detail-44:2"
         LoadBalancerInfo:
-          ContainerName: "pensioner-detail"
+          ContainerName: "pensioner-detail44"
           ContainerPort: "8000"
         PlatformVersion: "LATEST"
